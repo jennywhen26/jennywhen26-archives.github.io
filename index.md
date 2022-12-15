@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hi there! I'm Jenny, an aspiring (?) archivist.
 
-Maybe say a some things about yourself.
+here is where i talk about archive stuff.
 
-Or maybe what you plan to blog about.
+feel free to hang around if you're interested to know more about archiving!
+
+also, i love dogs, desserts, good food and film photography(:
