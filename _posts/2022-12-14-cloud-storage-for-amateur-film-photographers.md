@@ -9,5 +9,6 @@ I used to only shoot on my small digital camera around 4 years ago. Until one da
 
 If you shoot film in this day and age, ultimately you will run into the problem of "how do I store all my the digital files of my film scans"?
 
+1. Google Photos
 
 
