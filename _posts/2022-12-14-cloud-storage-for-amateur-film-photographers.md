@@ -33,7 +33,7 @@ SmugMug can be a great place to start if you’re looking to slowly transition t
 ### 3. 500px
 This platform also feels quite professional to me. If you are looking for a community of photographers to interact with and help build your business in photography, this would probably be the platform for you.
 - pros: 500px has features that will allow you to attach model release forms and property release forms to the photo’s metadata. There is also the choice to opt-in on the 500px Licensing program when you upload a photo. This would mean that your photos would be in the stock photo market. 500px works with Getty Images and VCG (Visual China Group). It would take some time for you to actually earn anything but if you license your photo exclusively through 500px, you'll earn 60% of your net sales.
-- cons: 500px does offer a free version but the limitation is that you may only upload 21 photos per week. !!500px is the platform that did not pass the lossless transportation of files test. Somehow the file size remained the same but the checksums were different. I scoured through online forums to find that if the checksums are different then they must not be duplicates. So, 500px changed something in the photo during that upload/download process but specifically what was changed I cannot tell. It could be that they simply changed some metadata and read/write permissions details that would not affect the image. However, I personally would not be able to trust this!!
+- cons: 500px does offer a free version but the limitation is that you may only upload 21 photos per week. !!500px is the platform that did not pass the lossless transportation of files test. Somehow the file size remained the same but the checksums were different. I scoured through online forums to find that if the checksums are different then they must not be duplicates. So, 500px changed something in the photo during that upload/download process but specifically what was changed I cannot tell. It could be that they simply changed some metadata and read/write permissions details that would not affect the image.(1) However, I personally would not be able to trust this!!
 - price: $13/month - unlimited storage
 
 ### 4. Google Photos
@@ -43,7 +43,7 @@ Storing photos on Google Photos is probably the easiest choice for most people n
 
 ### 5. PhotoBucket
 - pros: This platform has the most straightforward UI of all. There are some editing tools available.
-- cons: There is no public-facing portfolio page available. There is no free version. There is a free trial but after that, you would have to pay. I found this platform to be a little outdated. Even though it has a simple and clean-looking UI, it felt a bit undeveloped. I have also read a lot of bad reviews about the platform once being free but they are now holding users’ photos hostage while they are starting to charge money. I have also seen a reviewer say that their account had been deleted after a few years of inactivity.
+- cons: There is no public-facing portfolio page available. There is no free version. There is a free trial but after that, you would have to pay. I found this platform to be a little outdated. Even though it has a simple and clean-looking UI, it felt a bit undeveloped. I have also read a lot of bad reviews about the platform once being free but they are now holding users’ photos hostage while they are starting to charge money. I have also seen a reviewer say that their account had been deleted after a few years of inactivity.(2)
 - price:$13/month - unlimited storage
 
 ### 6. DevianArt
@@ -66,5 +66,7 @@ Hopefully, my evaluation above can serve as a guide for you on your journey to f
 
 jenny, Dec. 2022
 
-
-
+---
+Reference:
+(1) 1458279, post to “checksum different on transferring the same file,” MacRumors, November 4, 2015, https://forums.macrumors.com/threads/checksum-different-on-transferring-the-same-file.1934841/.
+(2)https://www.trustpilot.com/review/www.photobucket.com
