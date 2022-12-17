@@ -68,5 +68,6 @@ jenny, Dec. 2022
 
 ---
 Reference:
+
 (1) 1458279, post to “checksum different on transferring the same file,” MacRumors, November 4, 2015, https://forums.macrumors.com/threads/checksum-different-on-transferring-the-same-file.1934841/.
 (2)https://www.trustpilot.com/review/www.photobucket.com
