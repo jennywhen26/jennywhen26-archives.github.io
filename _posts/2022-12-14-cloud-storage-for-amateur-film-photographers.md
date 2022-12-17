@@ -67,6 +67,7 @@ Hopefully, my evaluation above can serve as a guide for you on your journey to f
 jenny, Dec. 2022
 
 ---
+
 References:
 
 (1) 1458279, post to “checksum different on transferring the same file,” MacRumors, November 4, 2015, https://forums.macrumors.com/threads/checksum-different-on-transferring-the-same-file.1934841/.
