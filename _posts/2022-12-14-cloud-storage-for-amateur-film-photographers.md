@@ -39,7 +39,8 @@ This platform also feels quite professional to me. If you are looking for a comm
 ### 4. Google Photos
 Storing photos on Google Photos is probably the easiest choice for most people now since a lot of us own a Google account. So, the setting up is very easy. - pros: Users can directly order photo or canvas prints on the platform, which is an interesting feature. There is also the “archive” feature which will allow you to archive older photos you no longer need to access as frequently so as to not accidentally make changes to the files.
 - cons: Storing photos on Google Photos will take up your Google Drive space, which is limited to 15GB. We all know how image file sizes can sometimes be very big and soon 15 GB will not be enough.
-- price: $1.99/month for 100GB; $2.99/month for 200GB; $9.99/month for 2TB 
+- price: $1.99/month for 100GB; $2.99/month for 200GB; $9.99/month for 2TB
+
 ### 5. PhotoBucket
 - pros: This platform has the most straightforward UI of all. There are some editing tools available.
 - cons: There is no public-facing portfolio page available. There is no free version. There is a free trial but after that, you would have to pay. I found this platform to be a little outdated. Even though it has a simple and clean-looking UI, it felt a bit undeveloped. I have also read a lot of bad reviews about the platform once being free but they are now holding users’ photos hostage while they are starting to charge money. I have also seen a reviewer say that their account had been deleted after a few years of inactivity.
