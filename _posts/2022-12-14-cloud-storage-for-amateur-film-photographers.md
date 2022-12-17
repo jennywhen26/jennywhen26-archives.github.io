@@ -1,4 +1,4 @@
-## Cloud storage options for film photographers!
+## Cloud Storage Options For Film Photographers!
 
 Hi everyone! My name is Jenny and I'm currently a graduate student studying moving image archiving and preservation at NYU.
 
